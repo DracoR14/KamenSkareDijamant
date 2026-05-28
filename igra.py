@@ -54,6 +54,6 @@ def odigraj_rundu(podaci: PotezIgraca):
     return {
         "tvoj_potez": moj_potez,
         "bot_potez": bot_potez,
-        "pobjednik_runde": resultado,
+        "pobjednik_runde": rezultat,
         "poruka": poruka
     }
